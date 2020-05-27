@@ -29,6 +29,7 @@ Example response:
 * SpringBoot 2.2.7.RELEASE
 * Hibernate 
 * mysql-connector-java 
+* Lombok
 <hr>
 
 # <a name="developer-start"></a>For developer
